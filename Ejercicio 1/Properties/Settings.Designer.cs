@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RegexEditor.Properties
+namespace Ejercicio_1.Properties
 {
 
 

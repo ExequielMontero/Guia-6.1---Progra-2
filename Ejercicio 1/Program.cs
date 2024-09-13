@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RegexEditor
+namespace Ejercicio_1
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace RegexEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormPrincipal());
+            Application.Run(new Form1());
         }
     }
 }
